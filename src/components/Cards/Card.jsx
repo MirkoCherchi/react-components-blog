@@ -1,6 +1,6 @@
 import colosseoPost from "../../../public/img/colosseo.jpg";
 
-const App = () => {
+const Card = () => {
   return (
     <div className="post-card">
       <div className="post-card-image">
@@ -21,4 +21,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Card;

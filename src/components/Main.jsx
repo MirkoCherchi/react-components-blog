@@ -1,5 +1,5 @@
 import Card from "./Cards/Card";
-const App = () => {
+const Main = () => {
   return (
     <>
       <main className="container">
@@ -9,4 +9,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Main;

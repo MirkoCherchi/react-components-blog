@@ -1,4 +1,4 @@
-const App = () => {
+const Footer = () => {
   return (
     <footer className="footer">
       <p>
@@ -11,4 +11,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Footer;
