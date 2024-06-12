@@ -3,9 +3,9 @@ import colosseoPost from "../../../public/img/colosseo.jpg";
 const Card = () => {
   return (
     <div className="post-card">
-      <div className="post-card-image">
+      <figure className="post-card-image">
         <img src={colosseoPost} alt="Post" />
-      </div>
+      </figure>
       <div className="post-card-content">
         <h2>Colosseo</h2>
         <p>
